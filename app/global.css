@@ -31,3 +31,9 @@ body {
     text-wrap: balance;
   }
 }
+
+button {
+  border-style: solid;
+  color: red;
+  background-color: aqua;
+}
